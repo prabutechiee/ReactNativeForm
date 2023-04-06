@@ -1,7 +1,7 @@
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { NavigationContainer } from "@react-navigation/native";
-import AddData from './Src/project2'
-import FetchData from './Src/fetchtable2'
+import AddData from './Src/project1'
+import FetchData from './Src/fetchtable1'
 
 const stack= createNativeStackNavigator();
 
